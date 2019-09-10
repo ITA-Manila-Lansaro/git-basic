@@ -1,3 +1,8 @@
 some text UPDATED
 
 Change something here in Github
+
+My Answer to no. 2 question: 
+What is the difference between add, commit, and push?
+
+Based on my understanding, git add is staging your changed/edited files to prepare it for commit. While git commit is getting your staged files to prepare it for pushing (don't forget to add commit message for example: git commit -m "Add/Edit something"). And lastly git push, this command allows you to push your committed files or branch into origin for other developer to see your changes and they will able to pull/fetch it. 
